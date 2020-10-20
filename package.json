@@ -1,0 +1,21 @@
+{
+  "name": "crimediggers-geo",
+  "version": "1.0.0",
+  "description": "Scratchpad attempt to solve GEO challenge: intersecting possible meetups in two .gpx files.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "some",
+    "descriptive",
+    "keywords"
+  ],
+  "author": "Thomas Poot",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gpx-parse": "^0.10.4",
+    "geolib": "^3.3.1"
+  }
+}

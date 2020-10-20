@@ -1,0 +1,5 @@
+{
+    "maxDistanceInMeter": 100,
+    "maxTimeframeInMinutes": 15,
+    "warnGpsBlackoutInMinutes": 5
+}
